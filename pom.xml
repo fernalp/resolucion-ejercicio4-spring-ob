@@ -14,7 +14,7 @@
     <name>resolucion-ejercicio4-ob</name>
     <description>resolucion-ejercicio4-ob</description>
     <properties>
-        <java.version>19</java.version>
+        <java.version>17</java.version>
     </properties>
     <dependencies>
         <dependency>
